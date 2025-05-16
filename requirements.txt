@@ -1,6 +1,6 @@
 numpy 
 pandas 
-tensorflow==2.13.1
+tensorflow==2.9.2   #to create RNN Network 
 matplotlib
 seaborn
 nltk
